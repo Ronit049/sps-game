@@ -1,0 +1,27 @@
+Clone the Repository (if using GitHub):
+
+git clone https://github.com/yourusername/LoginSystem.git
+cd LoginSystem
+
+Compile the Programs:
+
+gcc login.c -o login
+gcc SPS_Game.c -o sps_game
+
+Run the Programs:
+
+
+
+Future Improvements
+
+Implement user registration.
+
+Store user credentials in a file or database.
+
+Add a password encryption mechanism for security.
+
+Enhance SPS game with multiplayer and score tracking.
+
+License
+
+This project is open-source and free to use.
